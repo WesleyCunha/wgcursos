@@ -1,3 +1,0 @@
-# wghost
-
-Plataforma wg cursos
